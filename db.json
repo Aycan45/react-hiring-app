@@ -1,0 +1,49 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john@gmail.com",
+      "phone": 3598964311771,
+      "location": "Plovdiv",
+      "price": 13.5,
+      "technology": "Java",
+      "experience": 5,
+      "language": "English"
+    },
+    {
+      "id": 2,
+      "name": "Peter Jackson",
+      "email": "peter@gmail.com",
+      "phone": 3598764321675,
+      "location": "Sofia",
+      "price": 12,
+      "technology": "Javascript",
+      "experience": 3,
+      "language": "Serbian"
+    },
+    {
+      "id": 3,
+      "name": "Donald Gustafson",
+      "email": "donnie@gmail.com",
+      "phone": 3598464312790,
+      "location": "Varna",
+      "price": 11,
+      "technology": "PHP",
+      "experience": 4,
+      "language": "Bulgarian"
+    },
+    {
+      "name": "Usman",
+      "email": "us@abv.bg",
+      "phone": "3859013324",
+      "location": "Varna",
+      "price": "1",
+      "technology": "Python",
+      "experience": "5",
+      "language": "Bulgarian",
+      "id": 4
+    }
+  ],
+  "hired": []
+}
